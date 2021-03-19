@@ -3,7 +3,7 @@
 /* background gradiant from https://webgradients.com/ */
 html{
   height: 100%;
-  font-size: 16pt;
+  font-size: 16px;
 }
 body{
   background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);;
